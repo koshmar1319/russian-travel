@@ -3,7 +3,10 @@
 
 @import "../blocks/root/root.css";
 @import "../blocks/container/container.css";
+@import "../blocks/container-inner/container-inner.css";
 
 /* Header */
 @import "../blocks/header/header.css";
 
+/* Travel */
+@import "../blocks/travel/travel.css";
