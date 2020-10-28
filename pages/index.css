@@ -1,2 +1,9 @@
 @import "../vendor/normalize.css";
+@import "../fonts/fonts.css";
+
 @import "../blocks/root/root.css";
+@import "../blocks/container/container.css";
+
+/* Header */
+@import "../blocks/header/header.css";
+
