@@ -8,5 +8,8 @@
 /* Header */
 @import "../blocks/header/header.css";
 
-/* Travel */
-@import "../blocks/travel/travel.css";
+/* Lead */
+@import "../blocks/lead/lead.css";
+
+/* Intro */
+@import "../blocks/intro/intro.css";
