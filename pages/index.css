@@ -13,3 +13,6 @@
 
 /* Intro */
 @import "../blocks/intro/intro.css";
+
+/* Photo-grid */
+@import "../blocks/photo-grid/photo-grid.css";
