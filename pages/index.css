@@ -16,3 +16,6 @@
 
 /* Photo-grid */
 @import "../blocks/photo-grid/photo-grid.css";
+
+/* Places */
+@import "../blocks/places/places.css";

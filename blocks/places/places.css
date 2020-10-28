@@ -1,0 +1,52 @@
+.places{
+  margin-top: 92px;
+}
+
+.place{
+  display: grid;
+  grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  column-gap: 40px;
+  row-gap: 48px;
+  margin-bottom: 80px;
+}
+
+.place__title{
+  margin: 0;
+  font-size: 72px;
+  line-height: 76px;
+  font-weight: 900;
+}
+
+.place__image{
+  width: 460px;
+  height: 460px;
+}
+
+.place__website{
+  align-self: end;
+}
+
+.place__url-heading{
+  margin: 0;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+  color: #aaa;
+}
+
+.place__link{
+  display: block;
+  margin-top: 12px;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #fff;
+}
+
+.place__paragraph{
+  margin: 0;
+  margin-bottom: 26px;
+  font-size: 18px;
+  line-height: 163%;
+}
