@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: space-between;
   min-height: 52px;
+  margin-top: 28px;
 }
 
 .header__image{

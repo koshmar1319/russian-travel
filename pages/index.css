@@ -19,3 +19,6 @@
 
 /* Places */
 @import "../blocks/places/places.css";
+
+/* Cover */
+@import "../blocks/cover/cover.css";
