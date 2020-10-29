@@ -1,0 +1,30 @@
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 92px 0 24px;
+}
+
+.footer__links{
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.footer__item{
+  margin-right: 18px;
+}
+
+.footer__link{
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.footer__copyright{
+  margin: 0;
+  font-size: 14px;
+  line-height: 16px;
+}

@@ -22,3 +22,6 @@
 
 /* Cover */
 @import "../blocks/cover/cover.css";
+
+/* Footer */
+@import "../blocks/footer/footer.css";
