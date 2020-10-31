@@ -19,6 +19,34 @@
   margin-left: 18px;
 }
 
+.header__link_underline{
+  text-decoration: underline;
+}
+
 .header__link:hover{
   text-decoration: underline;
+}
+
+
+@media (max-width: 1200px){
+  .header{
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 770px){
+  .header{
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 480px){
+  .header__image{
+    width: 142px;
+    height: 42px;
+  }
+  .header__link{
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
