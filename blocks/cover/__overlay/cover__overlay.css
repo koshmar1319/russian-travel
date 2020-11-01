@@ -5,8 +5,14 @@
   background-position: center;
   min-height: 740px;
   position: relative;
-  display: block;
   color: #ffffff;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
 }
 
 .cover__overlay::before{
