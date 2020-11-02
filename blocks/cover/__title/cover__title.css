@@ -4,6 +4,7 @@
   font-size: 72px;
   line-height: 76px;
   font-weight: 900;
+  z-index: 1;
 }
 
 @media (max-width: 480px){

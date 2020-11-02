@@ -35,7 +35,7 @@
 
 @media (max-width: 480px){
   .place{
-    grid-template-columns: minmax(min-content, 288px);
+    grid-template-columns: minmax(min-content, 100%);
     row-gap: 32px;
     margin-bottom: 50px;
   }
