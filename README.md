@@ -12,7 +12,7 @@
 | HTML <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> | CSS <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> |
 |---|---|
 
->  В проекте активно используются `Flex`, `Grid`, `позиционирование`, `псевдоэлементы`, `псевдоклассы`,`БЭМ` и т.д.
+>  В проекте активно используются `Flex`, `Grid`, `позиционирование`, `псевдоэлементы`, `псевдоклассы`, `БЭМ` и т.д.
 
 ### Инструкция по установке:
 1. Установите [Node.js](https://nodejs.org/en/ "ссылка на сайт Node.js")
